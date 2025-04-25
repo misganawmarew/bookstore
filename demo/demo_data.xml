@@ -1,0 +1,11 @@
+<odoo>
+    <record id="demo_book_1" model="book.details">
+        <field name="title">Demo Book</field>
+        <field name="author_id" ref="base.partner_admin"/>
+        <field name="publisher">Demo Publisher</field>
+        <field name="published_date">2015-05-01</field>
+        <field name="isbn">1234567890123</field>
+        <field name="stock_qty">10</field>
+        <field name="price">15.99</field>
+    </record>
+</odoo>
