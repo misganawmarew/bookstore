@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_bookstore_manager,Bookstore Manager,model_book_details,group_bookstore_manager,1,1,1,1
+access_bookstore_assistant,Bookstore Assistant,model_book_details,group_bookstore_assistant,1,0,0,0
